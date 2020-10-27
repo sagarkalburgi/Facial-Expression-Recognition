@@ -21,6 +21,9 @@
 ### Surprise
 ![surprise](surprise.JPG)
 
+### Model
+![model](model.png)
+
 ### Accuracy and Loss Graph
 ![Accuracy and Loss Graph](Accuracy_and_Loss.png)
 
